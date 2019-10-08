@@ -1,0 +1,91 @@
+.containerNavbar {
+
+	text-align: center;
+	margin: 20px auto;
+	padding: 5px;
+	max-width: 700px;
+	width: 80%;
+	font-size: 12px;
+	text-transform: uppercase;
+	background-color: #c6bcd4;
+}
+
+/*figure out how to change color over hover*/
+
+#name {
+	font-size: 40px;
+	font-family: 'Sacramento', cursive;
+	text-align: center;
+}
+
+.tagline {
+	font-family: 'Playfair Display', serif;
+	font-size: 15px;
+	text-align: center;
+}
+
+img {
+	border-radius: 50%;
+	height: 33.33%;
+	width: 33.33%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+.aboutMeImages {
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+
+table {
+	font-family: 'Playfair Display', serif;
+	font-size: 15px;
+}
+
+td {
+	border-bottom: 1px solid #eae8ed;
+	padding: 10px;
+}
+
+
+body {
+	background-color: white;
+	font-family: 'Playfair Display', serif;
+	max-width: 700px;
+	width: 80%;
+	border: 10px solid #eae8ed;
+	padding: 10px;
+	margin: 20px auto;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-transform: uppercase;
+	font-family: 'Poppins', sans-serif;
+}
+
+li {
+	text-align: left;
+	display: inline-block;
+}
+
+li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+}
+
+.blurb{
+	font-size: 12px;
+}
+
+.linkedin {
+	background: #eae8ed;
+	color: black;
+}
