@@ -10,8 +10,6 @@
 	background-color: #c6bcd4;
 }
 
-/*figure out how to change color over hover*/
-
 #name {
 	font-size: 40px;
 	font-family: 'Sacramento', cursive;
@@ -37,6 +35,12 @@ img {
 	border-radius: 50%;
 	width: 200px;
 	height: 200px;
+}
+
+#cardBoxPhoto {
+	width: 500px;
+	height: 400px;
+	border-radius: none;
 }
 
 table {
@@ -88,4 +92,8 @@ li a {
 .linkedin {
 	background: #eae8ed;
 	color: black;
+}
+
+h2 {
+	font-family: 'Sacramento', cursive;
 }
